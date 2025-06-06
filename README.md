@@ -15,10 +15,8 @@ I’m currently learning, working on several Projects to challenge myself and gr
 - ⚡ Fun fact: I love to speak publicly and guide youths into pursuing a career in tech.
 
 - My Arsenals
+- ###
 - <p align="left"></p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -38,14 +36,12 @@ I’m currently learning, working on several Projects to challenge myself and gr
 </div>
 
 ###
-
-- ### Excel
-- ### SQL
+- ### Excel 
 - ### Power BI
 - ### Tableau
 - ### R
-- ### SPSS(Statistical Package for Social Science)
-- ### Python
+  
+  
 - <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
