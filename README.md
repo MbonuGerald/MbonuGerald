@@ -15,8 +15,8 @@ I’m currently learning, working on several Projects to challenge myself and gr
 - ⚡ Fun fact: I love to speak publicly and guide youths into pursuing a career in tech.
 
 - My Arsenals
-- ###
-- <p align="left"></p>
+ ###
+ <p align="left"></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
