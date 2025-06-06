@@ -34,7 +34,7 @@ I’m currently learning, working on several Projects to challenge myself and gr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-###
+
 - ### Excel 
 - ### Power BI/TABLEAU
 - ### R 
