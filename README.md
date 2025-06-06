@@ -13,7 +13,7 @@ I’m currently learning, working on several Projects to challenge myself and gr
 - 📫 How to reach me: www.linkedin.com/in/mbonu-gerald-5ba170284
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love to speak publicly and guide youths into pursuing a career in tech.
-
+<hr>
 - My Arsenals
  ###
  <p align="left"></p>
