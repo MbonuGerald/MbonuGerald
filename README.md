@@ -1,10 +1,10 @@
 
 ### Hi there
-<hr>
+
 ## This is  Mbonu Uchechukwu Gerald
-<hr>
+
 ## I am a Data Analyst/Business Intelligence Analyst<br/> I studied Computer Science and Mathematics
-<hr>
+
 Call me "Data lord" as I love to clean,tranform,model, and analyze data for business insights.
 I’m currently learning, working on several Projects to challenge myself and growimg my Data Analytics and Science Skills.
 - 💞️ I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
