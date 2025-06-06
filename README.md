@@ -53,7 +53,7 @@ I’m currently learning, working on several Projects to challenge myself and gr
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-###
+
 
 <!---
 MbonuGerald/MbonuGerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
